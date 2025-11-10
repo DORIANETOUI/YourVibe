@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titre": "Shape of You",
+    "artiste": "Ed Sheeran",
+    "cover": "https://images.unsplash.com/photo-1500099817043-86d46000d58f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=387",
+    "audio": "https://lasonotheque.org/museumofsounds/mp3/35_1.mp3"
+  },
+  {
+    "id": 2,
+    "titre": "Blinding Lights",
+    "artiste": "The Weeknd",
+    "cover": "https://plus.unsplash.com/premium_photo-1675359772567-c09110eb33be?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNvdmVyfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 3,
+    "titre": "Levitating",
+    "artiste": "Dua Lipa",
+    "cover": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvdmVyfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500",
+    "audio": "https://lasonotheque.org/museumofsounds/mp3/5_1.mp3"
+  }
+]
