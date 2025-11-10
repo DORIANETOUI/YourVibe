@@ -72,7 +72,7 @@ export default function App() {
   };
 
     return (
-        <div className='p-8'>
+        <div >
             <header className="relative mb-6 p-4 bg-base-100 rounded-lg shadow-md">
                 <h1 className="text-3xl font-bold mb-4">
                     {userName ? 
