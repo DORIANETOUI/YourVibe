@@ -2,9 +2,9 @@ import { useState, useEffect } from "react";
 
 export default function ThemeSwitcher() {
   // Liste de thèmes DaisyUI flashy
-  const themes = ["dark", "light", "synthwave", "cyberpunk", "valentine", "pastel"];
+  const themes = ["light","dark", "synthwave", "cyberpunk", "valentine", "pastel"];
   
-  const [theme, setTheme] = useState(localStorage.getItem("theme") || "dark");
+  const [theme, setTheme] = useState(localStorage.getItem("theme") || "light");
 
   useEffect(() => {
     document.body.setAttribute("data-theme", theme);
